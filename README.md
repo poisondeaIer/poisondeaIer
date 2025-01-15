@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=poisondeaIer&color=grey)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=x7fqbxslpfs7d61xf6f0nv2ob&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=eab239&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=x7fqbxslpfs7d61xf6f0nv2ob&redirect=true)
 <!--
 **poisondeaIer/poisondeaIer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
